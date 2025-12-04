@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="JUNTA NACIONAL DE JUSTICIA" id="id-2affc633ed414f50b50117cb7dff32bf" version="5.0.0">
+  <folder name="Strategy" id="id-3fa68979ddac4e28985ff86a6c35800c" type="strategy"/>
+  <folder name="Business" id="id-8911e77b7cba44229eca9244965898de" type="business"/>
+  <folder name="Application" id="id-70f205c7cd704b958c3c83932902089f" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-503d6f9c5721448c952449f85c61c7b2" type="technology"/>
+  <folder name="Motivation" id="id-bef57152cd8540e49269b3e9501d412f" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-78b7f4af1c534a9d9bea324bc6f7a1a6" type="implementation_migration"/>
+  <folder name="Other" id="id-d96f24db60ad4a92ab3f69a00f4fede9" type="other"/>
+  <folder name="Relations" id="id-63b2760c9530476f9b6b38950cddec4a" type="relations"/>
+  <folder name="Views" id="id-0656fa67383b4f22bcbb9ac4d9877a72" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-4859c67bd3ab41de80ab497cc32d5cd3"/>
+  </folder>
+</archimate:model>
