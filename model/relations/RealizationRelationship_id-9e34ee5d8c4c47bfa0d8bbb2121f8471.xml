@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modelado de datos"
+    id="id-9e34ee5d8c4c47bfa0d8bbb2121f8471">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-0beec35241464829b03a5a5eb9297ba5.xml#id-0beec35241464829b03a5a5eb9297ba5"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-4e47bd9e4506400b9a81e7caaafa2843.xml#id-4e47bd9e4506400b9a81e7caaafa2843"/>
+</archimate:RealizationRelationship>
