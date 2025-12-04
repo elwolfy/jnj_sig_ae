@@ -1,0 +1,71 @@
+# ==========================
+# GITIGNORE PARA ARCHI / ARCHIMATE
+# ==========================
+
+# --------------------------------
+# 1. Archi archivos temporales
+# --------------------------------
+*.bak
+*.tmp
+*.log
+*.tmp.zip
+
+# Archi backup automático
+*.archimate.bak
+*.archimate~*
+
+# Archi lock files
+*.lock
+
+# --------------------------------
+# 2. Archi Collaboration Plugin
+# (Ignorar archivos de configuración local)
+# --------------------------------
+*.properties
+*.prefs
+
+# Workspace interno del plugin
+.collab/
+*.metadata/
+
+# --------------------------------
+# 3. Scripts de jArchi (opcional)
+# Ignora binarios o temporales
+# --------------------------------
+jarchi-scripts/*.log
+jarchi-scripts/.settings/
+
+# --------------------------------
+# 4. Sistema operativo
+# --------------------------------
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# --------------------------------
+# 5. Herramientas de desarrollo
+# --------------------------------
+# VSCode config
+.vscode/
+
+# JetBrains (si usas plugins para Archi)
+.idea/
+*.iml
+
+# --------------------------------
+# 6. Archivos comprimidos que no debes versionar
+# --------------------------------
+*.zip
+*.7z
+*.rar
+
+# --------------------------------
+# 7. Documentación generada automáticamente
+# --------------------------------
+exports/
+generated-docs/
+out/
+dist/
