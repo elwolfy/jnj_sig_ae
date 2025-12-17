@@ -1,4 +1,17 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="10. Arquitectura de Datos AS IS"
-    id="id-67fb796de1d44af3969d72918e9735ec"/>
+    id="id-67fb796de1d44af3969d72918e9735ec">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-9401aa8634834770a445a9baa43f99d3"
+      name="Group"
+      textAlignment="1">
+    <bounds
+        x="152"
+        y="140"
+        width="400"
+        height="140"/>
+  </children>
+</archimate:ArchimateDiagramModel>
