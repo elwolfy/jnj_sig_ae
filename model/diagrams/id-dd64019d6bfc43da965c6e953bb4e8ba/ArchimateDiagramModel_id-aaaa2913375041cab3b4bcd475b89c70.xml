@@ -777,8 +777,8 @@
         id="id-8249af9a111e43bb86947efbfd7294a0"
         targetConnections="id-fca637f7bb3449f29eafc2ef4888decf">
       <bounds
-          x="480"
-          y="45"
+          x="492"
+          y="47"
           width="157"
           height="88"/>
       <archimateElement
@@ -790,8 +790,8 @@
         id="id-e324c273d7cb43d1adaebb4fca75c23f"
         targetConnections="id-ee28a21339f246c3a6c264d28fe7e2c8">
       <bounds
-          x="684"
-          y="45"
+          x="708"
+          y="47"
           width="157"
           height="88"/>
       <archimateElement
@@ -803,7 +803,7 @@
         id="id-6a17d7ccee494978ab5ecbe3034cc832"
         targetConnections="id-cb5225a7f13c4807bc96bf201535128a">
       <bounds
-          x="876"
+          x="912"
           y="46"
           width="145"
           height="85"/>
