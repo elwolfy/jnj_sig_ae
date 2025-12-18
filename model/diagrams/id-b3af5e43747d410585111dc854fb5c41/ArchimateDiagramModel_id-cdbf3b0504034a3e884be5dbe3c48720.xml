@@ -1,4 +1,30 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3. Mapa de Flujo de Valor"
-    id="id-cdbf3b0504034a3e884be5dbe3c48720"/>
+    id="id-cdbf3b0504034a3e884be5dbe3c48720">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-17317827fd3b4ff0a9ef9d5cb5abf0f0">
+    <bounds
+        x="203"
+        y="202"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-3aa84b96cef44a4d87004722ad2713f7.xml#id-3aa84b96cef44a4d87004722ad2713f7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-cfa7caf20af4481d9fcb79775cb53409">
+    <bounds
+        x="336"
+        y="202"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-d124822df3a84a2f9b43c56bc942a479.xml#id-d124822df3a84a2f9b43c56bc942a479"/>
+  </children>
+</archimate:ArchimateDiagramModel>
