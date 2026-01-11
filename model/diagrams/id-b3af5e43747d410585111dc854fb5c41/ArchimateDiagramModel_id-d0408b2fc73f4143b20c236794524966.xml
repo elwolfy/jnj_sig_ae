@@ -705,11 +705,33 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c65172df2e25461aa38f736ce218cdf2">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-d0dd9cea141d4576a3d969dcc3635032"
+          source="id-c65172df2e25461aa38f736ce218cdf2"
+          target="id-9666999d93474c3087b4d3a8e887fd30">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_id-ee1a40bf14a949efb6ba076d85a78389.xml#id-ee1a40bf14a949efb6ba076d85a78389"/>
+      </sourceConnections>
       <bounds
           x="492"
           y="36"
           width="181"
           height="157"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-9666999d93474c3087b4d3a8e887fd30"
+          targetConnections="id-d0dd9cea141d4576a3d969dcc3635032">
+        <bounds
+            x="24"
+            y="72"
+            width="132"
+            height="72"/>
+        <archimateElement
+            xsi:type="archimate:Capability"
+            href="Capability_id-ffdbacb1582a4537ac74cebf1d48eb34.xml#id-ffdbacb1582a4537ac74cebf1d48eb34"/>
+      </children>
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_id-7f291471f2e14bcd88268858169460ca.xml#id-7f291471f2e14bcd88268858169460ca"/>
